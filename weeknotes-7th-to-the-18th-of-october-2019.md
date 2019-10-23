@@ -61,7 +61,7 @@ We want to demonstrate in our work how technology can be made in a democratic an
 
 We’ve been working up our organising strategy and [theory of change](https://knowhow.ncvo.org.uk/how-to/how-to-build-a-theory-of-change) within the tech industry for 2020. It’s not really finished cooking, but the broad outlines are we need to work to build power:
 
-* *Within *— for tech workers within the existing industry, to put a break on irresponsible tech. [Tech Workers Coalition](https://techworkerscoalition.org/) are an example of this.
+* *Within *— for tech workers within the existing industry, to put a brake on irresponsible tech. [Tech Workers Coalition](https://techworkerscoalition.org/) are an example of this.
 
 * *Alongside *— bringing tech workers to work *alongside* social movements, mutually reenforcing one another’s organisational power and capacity. Our recent workshop [Making Technology Work For Your Campaigns](https://medium.com/common-knowledge/making-technology-work-for-your-campaigns-e25007772833) was our first formal go at this.
 
